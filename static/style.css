@@ -1,0 +1,53 @@
+#wrapper{
+	display: flex;
+	/* background-color: blue; */
+	width: auto;
+	height: auto;
+}
+
+.leftMain{
+	flex: 1;
+	/* background-color: red; */
+}
+
+.rightMain{
+	flex: 1;
+	/* background-color: green; */
+}
+
+.rButton{
+	margin-left: 700px;
+}
+
+
+
+
+
+span.redandbig{
+	font-size: 24pt;
+	color: red;
+}
+
+span.redandregular{
+	font-size: 14pt;
+	color: red;
+}
+
+span.blueandbig{
+	font-size: 24pt;
+	color: blue;
+}
+
+span.blueandregular{
+	font-size: 14pt;
+	color: blue;
+}
+span.greenandbig{
+	font-size: 24pt;
+	color: green;
+}
+
+span.greenandregular{
+	font-size: 14pt;
+	color: green;
+}
